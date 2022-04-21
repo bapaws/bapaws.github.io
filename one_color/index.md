@@ -1,7 +1,5 @@
-Privacy Policy for OneColor
-
 # Privacy Policy
-Effective date: October 28, 2022
+Effective date: April 21, 2022
 
 Bapaws ("us", "we", or "our") operates the OneColor mobile application (hereinafter referred to as the "Service").
 
@@ -54,6 +52,8 @@ We uses the collected data for various purposes:
 * To gather analysis or valuable information so that we can improve our Service
 * To monitor the usage of our Service
 * To detect, prevent and address technical issues
+
+
 # Transfer of Data
 Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
 
@@ -72,6 +72,8 @@ We may disclose your Personal Data in the good faith belief that such action is 
 * To prevent or investigate possible wrongdoing * in connection with the Service
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
+
+
 # Security of Data
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
