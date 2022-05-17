@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Chinese Color",
+        "cname": "中国传统颜色",
+        "count": 526,
+        "url": "/color/chinese.json",
+        "cover_img": "",
+        "cover_color": "#ef475d"
+    }, {
+        "id": 2,
+        "name": "Nippon Color",
+        "cname": "日本传统颜色",
+        "count": 250,
+        "url": "/color/nippon.json",
+        "cover_img": "",
+        "cover_color": "#ef475d"
+    }, {
+        "id": 3,
+        "name": "Wiki Color",
+        "cname": "百科颜色",
+        "count": 150,
+        "url": "/wiki.json",
+        "cover_img": "",
+        "cover_color": "#ef475d"
+    }
+]
