@@ -4,7 +4,7 @@
         "name": "Chinese Color",
         "cname": "中国传统颜色",
         "count": 526,
-        "url": "/color/chinese.json",
+        "url": "/v1/color/chinese.json",
         "cover_img": "",
         "cover_color": "#ef475d"
     }, {
@@ -12,7 +12,7 @@
         "name": "Nippon Color",
         "cname": "日本传统颜色",
         "count": 250,
-        "url": "/color/nippon.json",
+        "url": "/v1/color/nippon.json",
         "cover_img": "",
         "cover_color": "#ef475d"
     }, {
@@ -20,7 +20,7 @@
         "name": "Wiki Color",
         "cname": "百科颜色",
         "count": 150,
-        "url": "/wiki.json",
+        "url": "/v1/color/wiki.json",
         "cover_img": "",
         "cover_color": "#ef475d"
     }
