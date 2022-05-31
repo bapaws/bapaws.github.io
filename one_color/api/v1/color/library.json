@@ -1,27 +1,38 @@
 [
     {
         "id": 1,
-        "name": "Chinese Color",
-        "cname": "中国传统颜色",
-        "count": 526,
-        "url": "/v1/color/chinese.json",
-        "cover_img": "",
-        "cover_color": "#ef475d"
-    }, {
-        "id": 2,
-        "name": "Nippon Color",
-        "cname": "日本传统颜色",
-        "count": 250,
-        "url": "/v1/color/nippon.json",
-        "cover_img": "",
-        "cover_color": "#ef475d"
-    }, {
-        "id": 3,
         "name": "Wiki Color",
         "cname": "百科颜色",
         "count": 150,
         "url": "/v1/color/wiki.json",
-        "cover_img": "",
+        "cover_img": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2@2x.png",
+        "cover_color": "#ef475d"
+    }, {
+        "id": 2,
+        "name": "Chinese Color",
+        "cname": "中国传统颜色",
+        "vip": true,
+        "count": 526,
+        "url": "/v1/color/chinese.json",
+        "cover_img": "https://images.pexels.com/photos/7364158/pexels-photo-7364158.jpeg?auto=compress&cs=tinysrgb&w=168&h=100&dpr=2",
+        "cover_color": "#ef475d"
+    }, {
+        "id": 3,
+        "name": "Nippon Color",
+        "cname": "日本传统颜色",
+        "vip": true,
+        "count": 250,
+        "url": "/v1/color/nippon.json",
+        "cover_img": "https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg?auto=compress&cs=tinysrgb&w=168&h=100&dpr=2",
+        "cover_color": "#ef475d"
+    }, {
+        "id": 4,
+        "name": "Chinese Color 2",
+        "cname": "中国传统颜色 2",
+        "vip": true,
+        "count": 318,
+        "url": "/v1/color/chinese2.json",
+        "cover_img": "https://images.pexels.com/photos/5976374/pexels-photo-5976374.jpeg?auto=compress&cs=tinysrgb&w=168&h=100&dpr=2",
         "cover_color": "#ef475d"
     }
 ]
