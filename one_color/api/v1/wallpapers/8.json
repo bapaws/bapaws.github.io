@@ -1,0 +1,16 @@
+{
+    "id": 8,
+    "name": "Harley",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#7E1671"
+      }, {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/Harley.jpg?w=600",
+        "dx": 0.5,
+        "dy": 0.5
+      }
+    ]
+  }

@@ -1,0 +1,16 @@
+{
+    "id": 6,
+    "name": "MacBook Air",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#F9E8D0"
+      }, {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/09/MacBook-Air.jpg?w=600",
+        "dx": 0.5,
+        "dy": 0.5
+      }
+    ]
+  }

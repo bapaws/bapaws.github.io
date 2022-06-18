@@ -1,0 +1,18 @@
+{
+    "id": 12,
+    "name": "Crayon Shin-chan",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#8B8C8C"
+      }, {
+        "type": "image",
+        "alignment": "center",
+        "image": "https://s1.ax1x.com/2022/05/26/XEluVg.png",
+        "dx": 0.2,
+        "dy": -0.1,
+        "width": 72,
+        "height": 72
+      }
+    ]
+  }

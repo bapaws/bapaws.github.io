@@ -1,0 +1,16 @@
+{
+    "id": 10,
+    "name": "Ferrari 458 Speciale",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#8FB2C9"
+      }, {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/Ferrari-458-Speciale.jpg?w=600",
+        "dx": 0.5,
+        "dy": 0.5
+      }
+    ]
+  }

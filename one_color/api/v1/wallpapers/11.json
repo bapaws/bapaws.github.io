@@ -1,0 +1,16 @@
+{
+    "id": 11,
+    "name": "Camber Sands Beach House",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#B0D5DF"
+      }, {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/Camber-Sands-Beach-House.jpg?w=600",
+        "dx": 0.1,
+        "dy": 0.1
+      }
+    ]
+  }

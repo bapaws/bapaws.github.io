@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "name": "Apple Watch In Car",
+  "layers": [
+    {
+      "type": "color",
+      "color": "#8FB2C9"
+    }, {
+      "type": "image",
+      "alignment": "center",
+      "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/Apple-Watch-In-Car.jpg?resize=600%2C400",
+      "image_filter": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "width": 0.8,
+      "radius": 10
+    }
+  ]
+}

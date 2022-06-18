@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "name": "Workspace",
+    "layers": [
+      {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/09/Workspace-Top-Down-View-with-MacBook-Pro.jpg?w=600",
+        "dx": 0.5,
+        "dy": 0.5
+      }
+    ]
+  }
