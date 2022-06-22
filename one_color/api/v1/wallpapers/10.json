@@ -8,9 +8,9 @@
       }, {
         "type": "image_filter",
         "alignment": "center",
-        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/Ferrari-458-Speciale.jpg?w=600",
-        "dx": 0.5,
-        "dy": 0.5
+        "image": "https://burst.shopifycdn.com/photos/flatlay-of-a-coffee-mug-and-items-to-plan-travel.jpg?width=370&format=pjpg&exif=1&iptc=1",
+        "dx": 0.2,
+        "dy": 0.2
       }
     ]
   }

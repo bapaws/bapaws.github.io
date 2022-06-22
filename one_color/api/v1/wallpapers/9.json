@@ -8,9 +8,9 @@
       }, {
         "type": "image_filter",
         "alignment": "center",
-        "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/08/iPad-Mini-iPhone.jpg?w=600",
-        "dx": 0.5,
-        "dy": 0.5
+        "image": "https://burst.shopifycdn.com/photos/woman-dressed-in-white-leans-against-a-wall.jpg?width=370&format=pjpg&exif=1&iptc=1",
+        "dx": 0.15,
+        "dy": 0.15
       }
     ]
   }

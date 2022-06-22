@@ -4,15 +4,13 @@
     "layers": [
       {
         "type": "color",
-        "color": "#8B8C8C"
+        "color": "#F1F0ED"
       }, {
         "type": "image",
         "alignment": "center",
-        "image": "https://s1.ax1x.com/2022/05/26/XEluVg.png",
-        "dx": 0.2,
-        "dy": -0.1,
-        "width": 72,
-        "height": 72
+        "image": "https://burst.shopifycdn.com/photos/love-letters-and-hearts.jpg?width=370&format=pjpg&exif=1&iptc=1",
+        "width": 0.8,
+        "radius": 10
       }
     ]
   }

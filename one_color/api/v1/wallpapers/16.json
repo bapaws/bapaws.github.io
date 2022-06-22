@@ -8,11 +8,7 @@
     }, {
       "type": "image",
       "alignment": "center",
-      "image": "https://i0.wp.com/photos.oliur.com/wp-content/uploads/2015/09/MacBook-Air.jpg?w=600",
-      "image_filter": {
-        "x": 0.5,
-        "y": 0.5
-      },
+      "image": "https://burst.shopifycdn.com/photos/orange-hearts-with-hand-written-text-of-remembrance.jpg?width=370&format=pjpg&exif=1&iptc=1",
       "width": 0.8,
       "radius": 10
     }

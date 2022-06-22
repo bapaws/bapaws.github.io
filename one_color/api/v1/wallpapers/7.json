@@ -8,9 +8,9 @@
       }, {
         "type": "image_filter",
         "alignment": "center",
-        "image": "https://burst.shopifycdn.com/photos/business-flatlay-in-india.jpg?width=370&format=pjpg&exif=1&iptc=1",
-        "dx": 0.5,
-        "dy": 0.5
+        "image": "https://burst.shopifycdn.com/photos/hands-hold-and-write-in-a-yellow-notebook.jpg?width=370&format=pjpg&exif=1&iptc=1",
+        "dx": 0.10,
+        "dy": 0.10
       }
     ]
   }
