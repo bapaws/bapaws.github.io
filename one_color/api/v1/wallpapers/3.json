@@ -1,1 +1,17 @@
-{"id":3,"name":"牛","layers":[{"type":"color","color":"#93B5CF"},{"type":"text","text":"🐂🍺","color":"#EBB10D","font_size":0.3,"dy":-0.05}]}
+{
+  "id": 3,
+  "name": "瘦",
+  "layers": [
+    {
+      "type": "color",
+      "color": "#F2CE2B"
+    }, {
+      "type": "text",
+      "text": "瘦",
+      "text_align": "center",
+      "font_size": 0.2,
+      "font_weight": 200,
+      "color": "#FFFFFF"
+    }
+  ]
+}

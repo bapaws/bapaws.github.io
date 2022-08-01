@@ -1,1 +1,17 @@
-{"id":4,"name":"狗","layers":[{"type":"color","color":"#F2CE2B"},{"type":"text","text":"🐶","font_size":0.2}]}
+{
+    "id": 4,
+    "name": "New",
+    "layers": [
+      {
+        "type": "color",
+        "color": "#8FB2C9"
+      }, {
+        "type": "image",
+        "alignment": "center",
+        "image": "https://s1.ax1x.com/2022/05/26/XEMCLD.png",
+        "scale": 0.2,
+        "width": 100,
+        "height": 130
+      }
+    ]
+  }

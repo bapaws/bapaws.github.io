@@ -1,1 +1,13 @@
-{"id":2,"name":"不看","layers":[{"type":"color","color":"#F2CE2B"},{"type":"text","text":"\uD83D\uDE48","font_size":0.2}]}
+{
+    "id": 2,
+    "name": "Workspace",
+    "layers": [
+      {
+        "type": "image_filter",
+        "alignment": "center",
+        "image": "https://burst.shopifycdn.com/photos/person-holds-a-book-over-a-stack-and-turns-the-page.jpg?width=370&format=pjpg&exif=1&iptc=1",
+        "dx": 0.05,
+        "dy": 0.05
+      }
+    ]
+  }
