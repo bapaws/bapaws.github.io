@@ -3,7 +3,7 @@
       "apps": [],
       "details": [{
          "appID": "GM4766U38W.com.bapaws.onecolor",
-         "paths": ["/one_color/*"]
+         "paths": ["*"]
       }]
    }
 }
