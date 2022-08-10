@@ -1,17 +1,113 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+    <style type="text/css">
+        .img-wrap {
+            margin: 40px 19px;
+            position: relative;
+            display: block;
+        }
+
+        img {
+            width: 60%;
+            margin: auto;
+            display: block;
+        }
+
+        .btn-wrap {
+            display: flex;
+            justify-content: center;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 0 12px;
+            line-height: 40px;
+            box-sizing: border-box;
+            font-size: 16px;
+            font-weight: 400;
+            white-space: nowrap;
+            text-align: center;
+            display: inline-block;
+            height: 40px;
+            line-height: 40px;
+            padding: 0 20px;
+            font-size: 16px;
+            border-radius: 40px;
+            color: #fff;
+            background-color: #04cb94;
+            border-color: #04cb94;
+            text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+            -webkit-box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+            box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+            outline: 0;
+            font-weight: 400;
+            white-space: nowrap;
+            text-align: center;
+            background-image: none;
+            user-select: none;
+        }
+
+        .btn-text {
+            display: inline-block;
+            padding: 0 12px;
+        }
+
+        .info-box {
+            margin: 40px 16px 0;
+            padding: 16px;
+            background: #f8f9fc;
+            border-radius: 4px;
+        }
+
+        .info {
+            margin-top: 0;
+            margin-bottom: 16px;
+            font-size: 15px;
+            font-weight: 500;
+            color: #1f2d3d;
+        }
+
+        .info-list {
+            color: #5e6d82;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+
+        p {
+            display: block;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+        }
+    </style>
+
+</head>
+
 <body>
+    <div id="content">
+        <div class="img-wrap"><img src="https://cdn.pixabay.com/photo/2014/04/02/10/44/cross-mark-304374_1280.png" />
+        </div>
+        <div class="btn-wrap"><a id="add" class="btn" onclick="addShortcut()"><span class="btn-text">Add
+                    Shortcut</span></a></div>
+        <div class="info-box">
+            <p class="info">Due to iOS limitations, setting the wallpaper requires the use of "Shortcuts".</p>
+            <ul class="info-list">
+                <li>Click the "Add" button to jump to the "Shortcuts"</li>
+                <li>Click the "Add Shortcut" button to add the "One Color-Set Wallpaper" shortcut</li>
+                <li>Return to "One Color".</li>
+                <li>Click "Set Wallpaper" again.</li>
+            </ul>
+        </div>
+    </div>
 
-<h1>HTML DOM Events</h1>
-<h2>The onclick Event</h2>
-
-<button id="jump_one_color" onclick="jump()">Click this text to change the color.</h3>
-
-<script>
-function jump() {
-  window.location.href = 'https://www.bapaws.com/one_color/set_wallpaper';
-}
-</script>
-
+    <script>
+        function addShortcut() {
+            window.location.href = 'https://www.icloud.com/shortcuts/b4a82beeb1d24139a2d161ef744cb35d';
+        }
+    </script>
 </body>
+
 </html>
