@@ -1,1 +1,1 @@
-{"id":3006,"name":"Sea","layers":[{"type":"color","color":"#C9D8CD"},{"type":"image","alignment":"center","image":"https://images.pexels.com/photos/12437389/pexels-photo-12437389.jpeg?auto=compress&cs=tinysrgb&w=420&h=250&dpr=2","radius":10,"dy":0.05}]}
+{"id":3006,"name":"Sea","layers":[{"type":"color","color":"#C9D8CD"},{"type":"image","alignment":"center","image":"https://images.pexels.com/photos/12437389/pexels-photo-12437389.jpeg?auto=compress&cs=tinysrgb&w=420&h=250&dpr=2","radius":10,"dy":0.05,"scale":0.8}]}
