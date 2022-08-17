@@ -1,1 +1,1 @@
-{"id":3001,"name":"Hearts","layers":[{"type":"color","color":"#E4CECE"},{"type":"image","alignment":"center","image":"https://burst.shopifycdn.com/photos/red-and-white-hearts-scattered-on-pink-surface.jpg?width=740&format=pjpg&exif=1&iptc=1","radius":10,"dy":0.05,"scale":0.8}]}
+{"id":3001,"name":"Hearts","layers":[{"type":"color","color":"#E4CECE"},{"type":"image","alignment":"center","image":"https://burst.shopifycdn.com/photos/red-and-white-hearts-scattered-on-pink-surface.jpg?width=740&format=pjpg&exif=1&iptc=1","radius":0.03,"dy":0.05,"scale":0.8}]}
