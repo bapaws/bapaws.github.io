@@ -1,13 +1,13 @@
 Terms of Service
 ================
 
-Last Updated: October 24th 2018
+Last Updated: April 22, 2022
 
-Thank you for using One Color. One Color is a service of Bapaws Tech Inc., based in 275 Cook Road, Toronto, ON M3J 3T1, Canada. Bapaws Tech Inc. is the entity with whom you enter these terms. The terms "us", "we," or " One Color" (as the case may be) refer to Bapaws Tech Inc.
+Thank you for using One Color. One Color is a service of Bapaws Tech Inc. Bapaws Tech Inc. is the entity with whom you enter these terms. The terms "us", "we," or " One Color" (as the case may be) refer to Bapaws Tech Inc.
 
 These Terms of Service (the "Terms") and our Privacy Policy govern your use of all available One Color Services and Apps ("One Color"), so please read them carefully before using One Color.
 
-By using One Color, you agree to be bound by these Terms. If you don't agree to these Terms, do not use Color Capture. If you are using One Color on behalf of an organization (such as your employer), you are agreeing to these Terms for that organization, and are indicating that you have the authority to bind that organization to these Terms. In that case, "you" and "your" will refer to that organization.
+By using One Color, you agree to be bound by these Terms. If you don't agree to these Terms, do not use. If you are using One Color on behalf of an organization (such as your employer), you are agreeing to these Terms for that organization, and are indicating that you have the authority to bind that organization to these Terms. In that case, "you" and "your" will refer to that organization.
 
 We may revise the Terms from time to time. Changes may be posted to our website, blog and within our Apps, so please check that regularly. The most current version will always be posted on our Terms page. By continuing to use One Color after revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, please stop using One Color.
 
@@ -30,7 +30,7 @@ To use One Color, you optionally can create an account, either via One Color or 
 
 You may use One Color only if you are 13 years or older and are not barred from using One Color under applicable law.
 
-You are responsible for safeguarding the password that you use to access One Color. You are responsible for any activity on your account, whether or not you authorized that activity. You should immediately notify Color Capture of any unauthorized use of your account.
+You are responsible for safeguarding the password that you use to access One Color. You are responsible for any activity on your account, whether or not you authorized that activity. You should immediately notify One Color of any unauthorized use of your account.
 
 By using One Color, you provide us with text, graphics, images and other information ("your content"). You retain full ownership to your content. One Color does not claim any ownership rights to your content. However, you are also solely responsible for your content. You indicate that you own or have the necessary rights to all of your content, and that use of your content does not infringe, misappropriate or violate a third party's intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
 
@@ -39,7 +39,7 @@ One Color Intellectual Property Rights
 
 One Color and its licensors exclusively own One Color, including all associated intellectual property rights. You acknowledge that One Color is protected by copyright, trademark, and other laws of Canada, the United States and other foreign countries. You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights or notices incorporated in or accompanying One Color.
 
-One Color grants you a limited, non-exclusive, non-transferable license to view, copy, and display Color Capture solely in connection with your permitted use of One Color.
+One Color grants you a limited, non-exclusive, non-transferable license to view, copy, and display One Color solely in connection with your permitted use of One Color.
 
 General Prohibitions
 --------------------
@@ -69,7 +69,7 @@ We respect copyright law and expect you to do the same. It's our policy to termi
 Termination
 -----------
 
-We may suspend One Color or terminate your access to and use of One Color, at our sole discretion, at any time and without notice to you. For example, we may suspend or terminate your use if you are not complying with these Terms, or use One Color in any way that would cause us legal liability or disrupt others' use of Color Capture. If we suspend or terminate your use, we will try to let you know in advance and help you retrieve data, though there may be some cases (for example, repeatedly or flagrantly violating these Terms, a court order, or danger to other users) where we may suspend immediately. You may cancel your account at any time by sending an email to dev@bapaws.com.
+We may suspend One Color or terminate your access to and use of One Color, at our sole discretion, at any time and without notice to you. For example, we may suspend or terminate your use if you are not complying with these Terms, or use One Color in any way that would cause us legal liability or disrupt others' use of One Color. If we suspend or terminate your use, we will try to let you know in advance and help you retrieve data, though there may be some cases (for example, repeatedly or flagrantly violating these Terms, a court order, or danger to other users) where we may suspend immediately. You may cancel your account at any time by sending an email to dev@bapaws.com.
 
 Price Change
 ------------
@@ -102,7 +102,7 @@ These Terms and any action related thereto will be governed by the laws of the A
 General Terms
 -------------
 
-These Terms constitute the entire and exclusive understanding and agreement between One Color and you regarding One Color, and these Terms supersede and replace any and all prior oral or written understandings or agreements between One Color and you regarding One Color, except that if you become a party to Color Capture's Business Agreement, either before or after reviewing these Terms, the terms and conditions of the Business Agreement will govern over any conflicting provisions herein. If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect.
+These Terms constitute the entire and exclusive understanding and agreement between One Color and you regarding One Color, and these Terms supersede and replace any and all prior oral or written understandings or agreements between One Color and you regarding One Color, except that if you become a party to One Color's Business Agreement, either before or after reviewing these Terms, the terms and conditions of the Business Agreement will govern over any conflicting provisions herein. If for any reason a court of competent jurisdiction finds any provision of these Terms invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect.
 
 You may not assign or transfer these Terms, by operation of law or otherwise, without One Color's prior written consent. Any attempt by you to assign or transfer these Terms, without such consent, will be null and of no effect. One Color may freely assign or transfer these Terms without restriction. Subject to the foregoing, these Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
 
