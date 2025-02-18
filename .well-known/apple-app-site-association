@@ -1,9 +1,31 @@
 {
-   "applinks": {
-      "apps": [],
-      "details": [{
-         "appID": "GM4766U38W.com.bapaws.onecolor",
-         "paths": ["*"]
-      }]
-   }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GM4766U38W.com.bapaws.calendar",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "GM4766U38W.com.bapaws.Hours",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "GM4766U38W.com.bapaws.onecolor",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "GM4766U38W.com.bapaws.planbook",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
